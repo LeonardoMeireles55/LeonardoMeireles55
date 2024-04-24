@@ -1,5 +1,5 @@
 # About me 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMeireles55&hide_progress=false&show_icons=true&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMeireles55&hide_progress=truee&show_icons=true&bg_color=00000000)
 
 ## Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
