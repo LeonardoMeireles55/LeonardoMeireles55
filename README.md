@@ -12,7 +12,7 @@ I am a developer with experience in back-end development with tools such as Spri
 - CI/CD pipeline implementation using Github actions and Docker hub
 
 ## Projects
-
+- [Data Structures and Algorithms in JAVA](https://github.com/LeonardoMeireles55/Data-Structures-and-Algorithms-In-JAVA)
 - [LabGraph Backend](https://github.com/LabGraphTeam/LabGraph-Back-End)
 - [LabGraph Frontend](https://github.com/LabGraphTeam/LabGraph-Front-End)
 - [Ecommerce Next.js](https://github.com/LeonardoMeireles55/Ecommerce-Next.Js)
