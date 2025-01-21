@@ -4,7 +4,7 @@ I am a developer with experience in back-end development with tools such as Spri
 
 ## Highlights
 
-- Experience with automated testing using Jest, JUnit and Mockito
+- Experience with automated testing using TDD, Jest, JUnit and Mockito
 - Application of SOLID principles during development
 - Experience with relational databases (PostgreSQL, MariaDB, MySQL)
 - Server configuration using Ubuntu Server on DigitalOcean VPS
