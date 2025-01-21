@@ -4,11 +4,11 @@ I am a developer with experience in back-end development with tools such as Spri
 
 ## Highlights
 
-- Collaborated with Open-Source project Hibernate contributing with documentation fixes
 - Experience with automated testing using Jest, JUnit and Mockito
 - Application of SOLID principles during development
 - Experience with relational databases (PostgreSQL, MariaDB, MySQL)
 - Server configuration using Ubuntu Server on DigitalOcean VPS
+- Collaborated with Open-Source project Hibernate contributing with documentation fixes
 - CI/CD pipeline implementation using Github actions and Docker hub
 
 ## Projects
