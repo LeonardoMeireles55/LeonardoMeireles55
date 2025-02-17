@@ -19,7 +19,7 @@ I am a developer with experience in back-end development with tools such as Spri
 - [Proposal App Messaging](https://github.com/LeonardoMeireles55/Proposal-App-Messaging)
 - [NetEmu Patch Extractor](https://github.com/LeonardoMeireles55/NetEmuPatchExtractor)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMeireles55&hide_progress=true&show_icons=true&bg_color=00000000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMeireles55&hide_progress=true&show_icons=true&bg_color=00000000&title_color=2F81F7&text_color=8B949E)
 
 ## Tech Stack
 
