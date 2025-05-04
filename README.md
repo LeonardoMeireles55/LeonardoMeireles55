@@ -13,7 +13,6 @@ I am a developer with experience in back-end development with tools such as Spri
 
 ## Projects
 - [Data Structures and Algorithms in JAVA](https://github.com/LeonardoMeireles55/Data-Structures-and-Algorithms-In-JAVA)
-- [LabGraph Backend](https://github.com/LabGraphTeam/LabGraph-Back-End)
 - [Ecommerce Next.js](https://github.com/LeonardoMeireles55/Ecommerce-Next.Js)
 - [Proposal App Messaging](https://github.com/LeonardoMeireles55/Proposal-App-Messaging)
 - [NetEmu Patch Extractor](https://github.com/LeonardoMeireles55/NetEmuPatchExtractor)
